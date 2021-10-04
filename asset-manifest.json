@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Rcolon100/heroes/static/css/main.2133923f.chunk.css",
+    "main.js": "/Rcolon100/heroes/static/js/main.5c08e703.chunk.js",
+    "main.js.map": "/Rcolon100/heroes/static/js/main.5c08e703.chunk.js.map",
+    "runtime-main.js": "/Rcolon100/heroes/static/js/runtime-main.9a83929c.js",
+    "runtime-main.js.map": "/Rcolon100/heroes/static/js/runtime-main.9a83929c.js.map",
+    "static/js/2.1e646889.chunk.js": "/Rcolon100/heroes/static/js/2.1e646889.chunk.js",
+    "static/js/2.1e646889.chunk.js.map": "/Rcolon100/heroes/static/js/2.1e646889.chunk.js.map",
+    "index.html": "/Rcolon100/heroes/index.html",
+    "static/css/main.2133923f.chunk.css.map": "/Rcolon100/heroes/static/css/main.2133923f.chunk.css.map",
+    "static/js/2.1e646889.chunk.js.LICENSE.txt": "/Rcolon100/heroes/static/js/2.1e646889.chunk.js.LICENSE.txt",
+    "static/media/marvelcomicslogo.596b2294.png": "/Rcolon100/heroes/static/media/marvelcomicslogo.596b2294.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a83929c.js",
+    "static/js/2.1e646889.chunk.js",
+    "static/css/main.2133923f.chunk.css",
+    "static/js/main.5c08e703.chunk.js"
+  ]
+}
