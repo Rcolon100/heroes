@@ -12,11 +12,11 @@ Utilizing Marvel API's to search information on marvel heroes.
 
 # Usage
 
-Check out routes in real time for MBTA Transit
+Check out super hero information straight from Marvel's API.
 
 # Take a Look!
 
-My website is hosted on Github Pages: [Heroes](https://rcolon100.github.io/heroes) 
+My website is hosted on Github Pages: [Heroes](https://rcolon100.github.io/heroes/) 
 
 ## Contributors
 
